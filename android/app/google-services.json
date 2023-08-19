@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "735487212883",
+    "project_id": "taskmanagement-7aac2",
+    "storage_bucket": "taskmanagement-7aac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735487212883:android:1ab5e0eaa78eebaebaf5a6",
+        "android_client_info": {
+          "package_name": "com.task_management.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735487212883-r7k8af5l6mim1qfvtt74v0haej1knc3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.task_management.flutter_app",
+            "certificate_hash": "1361760a94639c95335ed00efb18e60fa3b88900"
+          }
+        },
+        {
+          "client_id": "735487212883-0mi8iltvl9gnsrspvqjs7l8190j2u4af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1S80-VFKQIgH1lEl7-dyn67yi9zNNgJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735487212883-0mi8iltvl9gnsrspvqjs7l8190j2u4af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
